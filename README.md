@@ -1,5 +1,5 @@
 # avaiation_accident_analysis
-AVIATION ACCIDENT ANALYSIS
+AIRWAYS ACCIDENT ANALYSIS
 ---------------------------------------------------
 
 **Project:**
