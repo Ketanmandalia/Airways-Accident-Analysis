@@ -1,4 +1,4 @@
-# avaiation_accident_analysis
+# AIRWAYS_accident_analysis
 AIRWAYS ACCIDENT ANALYSIS
 ---------------------------------------------------
 
